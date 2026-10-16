@@ -11,6 +11,13 @@
 
 Most of these tools started as something I needed at work and could not find. Each one does one job, runs offline or on your own machine where it can, and says plainly what it cannot do yet.
 
+<p align="center">
+  <a href="https://opencollective.com/nexaforge-oss"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexaforge-oss/.github/main/profile/sponsor-button-general-dark.webp">
+    <img src="https://raw.githubusercontent.com/nexaforge-oss/.github/main/profile/sponsor-button-general-light.webp" width="480" alt="Support NexaForge: an animated gold Support button that opens the sponsor page">
+  </picture></a>
+</p>
+
 [Website](https://nexaforge.eu.cc/) · [Sponsor](https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md) · [Profile of the maintainer](https://github.com/farhan6667) · [LinkedIn](https://www.linkedin.com/in/sfa6667)
 
 ## The tools
@@ -39,7 +46,7 @@ Yes. Every tool listed here is open source, and the licence is shown in the tabl
 The most useful help is a real world test report from your own Wazuh manager or setup, a clear bug report, or a fix. Look for the good first issue label in each repository.
 
 **How can I sponsor the work?**
-The [sponsor page](https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md) explains the options. GitHub Sponsors is not available in Pakistan, so funding is being set up through Open Collective, which accepts a card with any amount.
+The [sponsor page](https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md) explains the options. GitHub Sponsors is not available in Pakistan, so funding is collected through [Open Collective](https://opencollective.com/nexaforge-oss), which accepts a card with any amount.
 
 **Do you offer paid work?**
 Yes, security reviews, penetration testing, detection engineering and custom tooling are offered through [NexaForge](https://nexaforge.eu.cc/).
